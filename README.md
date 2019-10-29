@@ -22,4 +22,4 @@ Sample 2: the panorama is perfect so we dont need to apply step 8 <br>
 <img src="samples/Figure_5.png" width="1000px" >
 
 
-<b>RUN:</b> type python stitch.py in the command line
+<b>RUN:</b> type <i>python stitch.py</i> in the command line
