@@ -1,4 +1,4 @@
-The goal of this project is to build a Computer Vision System that stitch two camera views to generate
+On this project my goal is to build a Computer Vision System that stitch two camera views to generate
 a panorama. 
 
 The algorithm can be described as follows:<br>
