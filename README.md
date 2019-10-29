@@ -17,7 +17,7 @@ The algorithm can be described as follows:<br>
 Sample 1: the panorama is not perfect so we need to apply step 8 to crop the image <br>
 <img src="samples/Figure_2.png" width="1000px" >
 
-<br><br>
+<br>
 Sample 2: the panorama is perfect so we dont need to apply step 8 <br>
 <img src="samples/Figure_5.png" width="1000px" >
 
